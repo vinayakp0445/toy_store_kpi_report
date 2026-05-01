@@ -1,0 +1,9 @@
+# Power BI
+*.pbix
+
+# Avoid ignoring the template file since that's what we want to track
+!*.pbit
+
+# Ignore temporary files
+~$*.pbix
+~$*.pbit
