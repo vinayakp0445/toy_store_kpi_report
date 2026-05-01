@@ -31,7 +31,9 @@ A robust relational data model (Star Schema) was created to ensure optimal perfo
 ## 💻 Dashboard Preview
 *(Click the link below to watch the dashboard in action)*
 
-🎥 [Watch the Dashboard Demo](assets/Dashboard-working.mp4)
+🎥 [Watch the Dashboard Demo](https://www.linkedin.com/posts/itsvinayakp_powerbi-dataanalytics-datavisualization-activity-7455989609051627521-9H9i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3NYaUBD3CqflS31_34PO70nGVqHDEyvFI)
+
+🖼️ [Dashboard Preview](assets/snapshot-of-dashboard.png)
 
 ## 🚀 How to Open
 1. Clone or download this repository.
